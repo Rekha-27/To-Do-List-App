@@ -16,7 +16,5 @@ A simple, responsive task manager built using ReactJS and TailwindCSS.
 _Add screenshots here (optional)_
 
 ## 🧪 Demo
-Try the app [here](#) (if hosted)
+Try the app [todo-list-app-mr.netlify.app](https://todo-list-app-mr.netlify.app)
 
-## 📄 License
-MIT
